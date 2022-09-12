@@ -1,0 +1,12 @@
+a {
+  font-size: 1.2em;
+  margin-right: 1.1em;
+  color: inherit;
+  text-decoration: none;
+}
+
+#div-button-add {
+  margin: 1em;
+  text-align: center;
+  width: auto;
+}
